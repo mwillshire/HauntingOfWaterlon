@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PatrolPoint
+  - Gem
+  - Exit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Structure
+  - DetectionCone
+  - PatrolPoint
+  - Gem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 1778262903
+    locked: 0
+  - name: PatrolPoint
+    uniqueID: 2298051779
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DetectionCone
+    uniqueID: 1662946579
+    locked: 0
+  - name: Structure
+    uniqueID: 2355475499
+    locked: 0
+  - name: Enemy
+    uniqueID: 3099499181
+    locked: 0
+  - name: Player
+    uniqueID: 1168033783
+    locked: 0
+  - name: Gem
+    uniqueID: 682156071
+    locked: 0

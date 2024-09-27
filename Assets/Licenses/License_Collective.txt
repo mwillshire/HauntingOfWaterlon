@@ -1,0 +1,185 @@
+Asset: Graveyard Kit
+Asset Type: 3D Model Package
+Author: Kenney
+License: Creative Commons CC0 DEED
+Download Date: 02/15/2024
+Download Time: 21:17
+Project: Haunting of Waterlon
+Cost: Free
+Link: https://kenney.nl/assets/graveyard-kit
+
+-------------------------------
+Asset: UI Pack
+Asset Type: 2D UI Package
+Author: Kenney
+License: Creative Commons CC0 DEED
+Download Date: 02/15/2024
+Download Time: 21:26
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://kenney.nl/assets/ui-pack
+
+-------------------------------
+Asset: Snowtop Caps
+Asset Type: Font Package
+Author: Dieter Steffmann
+License: Free
+Download Date: 02/23/2024
+Download Time: 18:40
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://www.1001freefonts.com/snowtop-caps.font
+
+-------------------------------
+Asset: Low Poly Gems Pack 2
+Asset Type: 3D Model Package
+Author: godgoldfear
+License: Creative Commons Attribution v4.0 International
+Download Date: 02/24/2024
+Download Time: 18:35
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://godgoldfear.itch.io/low-poly-gems-pack-2
+
+-------------------------------
+Asset: Player and Enemy Modes and Facing Movement 
+Asset Type: Scripts
+Author: Jeremy Gibson Bond
+License: Textbook
+Download Date: 03/20/2024
+Download Time: 17:20
+Project: Hauntings of Waterlon
+Cost: Free
+Source: Introduction to Game Design, Protyping, and Development 3rd Edition
+
+-------------------------------
+Asset: Field Of View Script 
+Asset Type: Script
+Author: Comp-3 Interactive
+License: Standard Youtube License
+Download Date: 03/28/2024
+Download Time: 18:03
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://www.youtube.com/watch?v=j1-OyLo77ss
+
+-------------------------------
+Asset: View Cone Script 
+Asset Type: Script
+Author: A Lot of thigs
+License: Standard Youtube License
+Download Date: 03/28/2024
+Download Time: 21:38
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://www.youtube.com/watch?v=luLrhoTZYD8
+
+-------------------------------
+Asset: Audio Manager and Sound Scripts 
+Asset Type: Script
+Author: Brackeys
+License: Standard Youtube License
+Download Date: 04/07/2024
+Download Time: 10:29
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://www.youtube.com/watch?v=6OT43pvUyfY
+
+-------------------------------
+Asset: Fears (Horror Music)
+Asset Type: Soundtrack
+Author: Devtrap
+License: Royalty Free, "can be used by anyone in their projects, even commercially." - Devtrap
+Download Date: 04/07/2024
+Download Time: 12:53
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://devtrap.itch.io/
+
+-------------------------------
+Asset: Impact Sounds
+Asset Type: Soundtrack
+Author: Kenney
+License: Creative Commons CC0
+Download Date: 04/07/2024
+Download Time: 12:55
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://kenney.nl/assets/impact-sounds
+
+-------------------------------
+Asset: Interface Sounds
+Asset Type: Soundtrack
+Author: Kenney
+License: Creative Commons CC0
+Download Date: 04/07/2024
+Download Time: 12:55
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://kenney.nl/assets/interface-sounds
+
+-------------------------------
+Asset: Zombie Whuahrrrr && Zombie Rattle Man
+Asset Type: Sound Effects
+Author: Quick Sounds
+License: Standard License
+Download Date: 04/09/2024
+Download Time: 16:00
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://quicksounds.com/library/sounds/zombie
+
+-------------------------------
+Asset: Growling Zombie
+Asset Type: Sound Effects
+Author: Pixabay
+License: Standard License
+Download Date: 04/09/2024
+Download Time: 16:20
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://pixabay.com/sound-effects/growling-zombie-104988/
+
+-------------------------------
+Asset: Free Horror Ambience
+Asset Type: Ambience sounds/music
+Author: N.91music
+License: "All sounds are completely free to use"
+Download Date: 07/18/2024
+Download Time: 15:59 Est
+Project: Hauntings of Waterlon
+Cost: Free 
+Link: https://n91music.itch.io/free-horror-ambience
+
+-------------------------------
+Asset: Ghost Scream
+Asset Type: Sound
+Author: Vishwajay
+License: Free through Pixabay Content License
+Download Date: 07/18/2024
+Download Time: 18:40 Est
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://pixabay.com/sound-effects/ghost-scream-37774/
+
+-------------------------------
+Asset: Ghost sigh3
+Asset Type: Sound
+Author: HorrorAudio
+License: Free through Pixabay Content License
+Download Date: 07/18/2024
+Download Time: 18:41 Est
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://pixabay.com/sound-effects/ghost-sigh3-99231/
+
+-------------------------------
+Asset: Ghost Scare Vintage
+Asset Type: Sound
+Author: onderwish
+License: Free through Pixabay Content License
+Download Date: 07/18/2024
+Download Time: 18:44 Est
+Project: Hauntings of Waterlon
+Cost: Free
+Link: https://pixabay.com/sound-effects/ghost-scare-vintage-6062/
