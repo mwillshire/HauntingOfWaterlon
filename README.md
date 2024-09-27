@@ -1,4 +1,4 @@
-# HauntingOfWaterlon
+# HauntingOfWaterlon, Unity Version: 2023.1.9f1
 # All scripts are either pulled and cited from other sources as shown in the credits scene, or made by myself.
 # Any scripts made by myself are strictly usable by only myself, Michael Willshire. 
 # I believe that if you want to make games, then you should build your own script library.
