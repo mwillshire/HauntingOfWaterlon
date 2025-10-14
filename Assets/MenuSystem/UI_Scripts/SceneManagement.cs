@@ -32,7 +32,7 @@ public class SceneManagement : MonoBehaviour
         if (isSkipableByKey)
             if (Input.GetKeyDown(keys[0]))
             {
-                if (withSound) FindObjectOfType<AudioHandler>().Play(soundName);
+                if (withSound) FindFirstObjectByType<AudioHandler>().Play(soundName);
                 Invoke("LoadScene", .01f);
             }
     }
@@ -49,9 +49,9 @@ public class SceneManagement : MonoBehaviour
     public void ExitGame ()
     {
 #if UNITY_EDITOR
-        EditorApplication.isPlaying = false;
+    UnityEditor.EditorApplication.isPlaying = false;
 #else
-        Application.Quit;
+    Application.Quit();
 #endif
     }
 }
